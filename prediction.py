@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
-import Pystan
+import pystan
+import numpy
 from streamlit_option_menu import option_menu
 #from st_aggrid import AgGrid
 import plotly
