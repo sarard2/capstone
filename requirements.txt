@@ -1,5 +1,6 @@
 matplotlib
 pandas
+numpy
 plotly
 datetime
 seaborn
