@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+plotly
+seaborn
+streamlit
+streamlit-option-menu
+sklearn
+Pystan==2.19.1.1
+fbprophet
